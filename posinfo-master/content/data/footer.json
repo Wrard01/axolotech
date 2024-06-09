@@ -1,0 +1,104 @@
+{
+    "logo": {
+        "url": "/images/MyAxolotl neutral logo.svg",
+        "altText": "Logo light",
+        "type": "ImageBlock"
+    },
+    "text": "@XOLOTECH, compilation of helpful information.\n",
+    "primaryLinks": {
+        "title": "Pos INFORmation",
+        "links": [
+            {
+                "label": "NCR Terminals",
+                "altText": "NCR Terminals",
+                "url": "/ncr",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "label": "Toshiba Terminals",
+                "url": "/Toshiba",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link",
+                "altText": "Toshiba Terminals"
+            }
+        ],
+        "type": "FooterLinksGroup"
+    },
+    "secondaryLinks": {
+        "title": "@xolotech",
+        "links": [
+            {
+                "label": "Blog",
+                "url": "/blog",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "type": "Link",
+                "label": "Icons from svgrepo.com",
+                "altText": "Instagram",
+                "url": "https://www.svgrepo.com/",
+                "showIcon": false,
+                "icon": "",
+                "iconPosition": "left",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Images created with Cipilot",
+                "altText": "",
+                "url": "https://copilot.microsoft.com/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            }
+        ],
+        "type": "FooterLinksGroup"
+    },
+    "socialLinks": [
+        {
+            "altText": "LinkedIn link",
+            "url": "https://www.linkedin.com/company/netlify",
+            "icon": "linkedin",
+            "type": "Social"
+        },
+        {
+            "altText": "Email link",
+            "url": "/",
+            "icon": "mail",
+            "type": "Social"
+        }
+    ],
+    "legalLinks": [
+        {
+            "label": "Terms",
+            "url": "/Terms",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link",
+            "altText": "Terms"
+        },
+        {
+            "label": "Privacy",
+            "url": "/",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        }
+    ],
+    "copyrightText": "2024 @xolotech All rights reserved. Powered by [Netlify Create.](https://www.netlify.com/platform/create/)\n",
+    "colors": "bg-dark-fg-light",
+    "type": "Footer"
+}
